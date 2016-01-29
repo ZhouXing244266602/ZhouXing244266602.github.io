@@ -84,7 +84,7 @@ permalink: /pages/about.html
 				Email：
 			</td>  
 			<td>
-				gycoderhh@gmail.com			
+				zxcodestudy@163.com		
 			</td>
 		</tr>
 
@@ -93,16 +93,16 @@ permalink: /pages/about.html
 				github：
 			</td>  
 			<td>
-				<a href="{{ site.author.github }}" target="_blank">github.com/BladeMasterCoder</a>
+				<a href="{{ site.author.github }}" target="_blank">github.com/ZhouXing244266602</a>
 			</td>  
 		</tr>
 
 		<tr>
 			<td>
-				微博：
+				QQ：
 			</td> 
 			<td>
-				<a href="{{ site.author.weibo }}" target="_blank">weibo.com/u/2344559062</a>
+				244266602
 			</td> 
 		</tr>
 	</table>
